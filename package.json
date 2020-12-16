@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/azeemhassni/react-native-animated-hamburger.git"
+    "url": "git+git@github.com:juliosgarbi/react-native-animated-hamburger.git"
   },
   "keywords": [
     "react-native",
